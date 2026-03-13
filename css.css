@@ -1,0 +1,25 @@
+body{
+    /*no body eu controlo a pagina toda*/
+    font-family: Arial, Helvetica, sans-serif; /*fonte da págia toda*/
+    background-color:#fdf0d5;/*cor de fundo da página*/
+    color: #3f2a2b /*cor da fonte*/
+}
+header{
+    text-align: center;
+    background-color: #5a221c;
+    color: #e09f7d;
+}
+main{
+    background-color: #d49436;
+    padding: auto;
+}
+footer{
+    background-color: #cc7a30;
+    color: #923d0a;
+    height: 100px; /*altura do componente*/
+    padding: auto;
+}
+a{
+    color: #fbcb03;
+    padding: 5px; /*espaço entre as margens*/
+}
